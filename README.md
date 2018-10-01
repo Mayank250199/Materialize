@@ -1,3 +1,3 @@
 # Materialize
 
-Demo at https://mayank250199.github.io/Materialize/index.html
+Site Demo at https://mayank250199.github.io/Materialize/index.html
